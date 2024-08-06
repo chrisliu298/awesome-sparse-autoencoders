@@ -88,10 +88,13 @@ This repository tracks the latest research on sparse autoencoders, specifically 
 
 ## Blog Posts
 
+- [Self-explaining SAE features](https://www.lesswrong.com/posts/8ev6coxChSWcxCDy8/self-explaining-sae-features)
+  - Author(s): [Dmitrii Kharpalenko](https://www.lesswrong.com/users/dmitrii-kharlapenko?from=post_header), [neverix](https://www.lesswrong.com/users/neverix?from=post_header), [Neel Nanda](https://www.lesswrong.com/users/neel-nanda-1?from=post_header), [Arthur Conmy](https://www.lesswrong.com/users/arthur-conmy?from=post_header)
+  - Date: 2024-08-06
 - [A primer on sparse autoencoders - by Nick Jiang](https://nickjiang.substack.com/p/a-primer-on-sparse-autoencoders)
   - Author(s): Nick Jiang
   - Date: 2024-07-03
-- [An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability | Adam Karvonen](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html)
+- [An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html)
   - Author(s): [Adam Karvonen](https://adamkarvonen.github.io/)
   - Date: 2024-06-11
 - [Finding Sparse Linear Connections between Features in LLMs](https://www.alignmentforum.org/posts/7fxusXdkMNmAhkAfc/finding-sparse-linear-connections-between-features-in-llms)
