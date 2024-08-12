@@ -15,6 +15,11 @@ This repository tracks the latest research on sparse autoencoders, specifically 
 
 ## Papers
 
+- [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/abs/2408.05147)
+  - Author(s): Tom Lieberum, Senthooran Rajamanoharan, Arthur Conmy, Lewis Smith, Nicolas Sonnerat, Vikrant Varma, János Kramár, Anca Dragan, Rohin Shah, Neel Nanda
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
 - [Disentangling Dense Embeddings with Sparse Autoencoders](https://arxiv.org/abs/2408.00657)
   - Author(s): Charles O'Neill, Christine Ye, Kartheik Iyer, John F. Wu
   - Date: 2024-08
