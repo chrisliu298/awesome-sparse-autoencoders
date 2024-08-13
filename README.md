@@ -93,6 +93,9 @@ This repository tracks the latest research on sparse autoencoders, specifically 
 
 ## Blog Posts
 
+- [Extracting SAE task features for in-context learning — LessWrong](https://www.lesswrong.com/posts/5FGXmJ3wqgGRcbyH7/extracting-sae-task-features-for-icl)
+  - Author(s): [Dmitrii Kharlapenko](https://www.lesswrong.com/users/dmitrii-kharlapenko?from=post_header), [neverix](https://www.lesswrong.com/users/neverix?from=post_header), [Neel Nanda](https://www.lesswrong.com/users/neel-nanda-1?from=post_header), [Arthur Conmy](https://www.lesswrong.com/users/arthur-conmy?from=post_header)
+  - Date: 2024-08-13
 - [Self-explaining SAE features](https://www.lesswrong.com/posts/8ev6coxChSWcxCDy8/self-explaining-sae-features)
   - Author(s): [Dmitrii Kharpalenko](https://www.lesswrong.com/users/dmitrii-kharlapenko?from=post_header), [neverix](https://www.lesswrong.com/users/neverix?from=post_header), [Neel Nanda](https://www.lesswrong.com/users/neel-nanda-1?from=post_header), [Arthur Conmy](https://www.lesswrong.com/users/arthur-conmy?from=post_header)
   - Date: 2024-08-06
