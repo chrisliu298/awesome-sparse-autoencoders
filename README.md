@@ -15,6 +15,16 @@ This repository tracks the latest research on sparse autoencoders, specifically 
 
 ## Papers
 
+- [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/abs/2409.04478)
+  - Author(s): Maheep Chaudhary, Atticus Geiger
+  - Date: 2024-09
+  - Venue: -
+  - Code: -
+- [Residual Stream Analysis with Multi-Layer SAEs](https://arxiv.org/abs/2409.04185)
+  - Author(s): Tim Lawson, Lucy Farnik, Conor Houghton, Laurence Aitchison
+  - Date: 2024-09
+  - Venue: -
+  - Code: -
 - [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/abs/2408.05147)
   - Author(s): Tom Lieberum, Senthooran Rajamanoharan, Arthur Conmy, Lewis Smith, Nicolas Sonnerat, Vikrant Varma, János Kramár, Anca Dragan, Rohin Shah, Neel Nanda
   - Date: 2024-08
